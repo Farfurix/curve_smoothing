@@ -27,6 +27,6 @@ track = Track(points)
 
 example.py(PyQt5 required) result:
 
-![alt text](https://github.com/Farfurix/2D_curve_smoothing/blob/master/README_imgs/TrackWindow.png)
+![alt text](https://github.com/Farfurix/curve_smoothing/blob/master/README_imgs/TrackWindow.png)
 
 
